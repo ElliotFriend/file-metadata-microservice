@@ -1,10 +1,11 @@
 {
   "name": "file_metadata",
   "version": "0.0.1",
-  "description": "API project for freeCodeCamp",
-  "main": "server.js",
+  "author": "Elliot J. Voris"
+  "description": "A very simple file metadata examiner api project",
+  "main": "app.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
@@ -13,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/freeCodeCamp/boilerplate-project-filemetadata"
+    "url": "https://github.com/ElliotFriend/file-metadata-microservice"
   },
   "keywords": [
     "node",
