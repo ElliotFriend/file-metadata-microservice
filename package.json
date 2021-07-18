@@ -1,7 +1,7 @@
 {
   "name": "file_metadata",
   "version": "0.0.1",
-  "author": "Elliot J. Voris"
+  "author": "Elliot J. Voris",
   "description": "A very simple file metadata examiner api project",
   "main": "app.js",
   "scripts": {
